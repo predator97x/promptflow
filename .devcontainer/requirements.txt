@@ -1,2 +1,4 @@
 promptflow[azure]>=1.9.0
 promptflow-tools
+
+git+https://github.com/predator97x/Hellman-manoj.git
